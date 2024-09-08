@@ -77,4 +77,3 @@ This script is intended for personal use and educational purposes only. Excessiv
 
 ### **Contributing**
 Feel free to fork the repository and submit pull requests for improvements or additional features!
----
