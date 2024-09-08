@@ -7,7 +7,7 @@ Welcome to the Python Hacks repository! This collection features various Python 
 - [Introduction](#introduction)
 - [Scripts and Utilities](#scripts-and-utilities)
   - [Wi-Fi Password Extraction](https://github.com/avalokkumar/python-tricks/tree/main/wifi_pwd_extractor)
-  - [Price Drop Notification](#price-drop-notification)
+  - [Price Drop Notification](https://github.com/avalokkumar/python-tricks/tree/main/price_drop_notification)
   - [Auto Form Filling](#auto-form-filling)
   - [Log Analysis and Anomaly Detection](#log-analysis-and-anomaly-detection)
 - [Usage](#usage)
