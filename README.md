@@ -31,7 +31,7 @@ This repository contains Python scripts for a variety of tasks. Whether you need
 ### Price Drop Notification
 
 **Script:**
-- `price_drop_notifier.py` - Monitor e-commerce websites for price drops and receive notifications.
+- `amazon_price_monitor.py` - Monitor amazon e commerce site for price drops and receive notifications.
 
 ### Auto Form Filling
 
