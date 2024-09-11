@@ -9,7 +9,15 @@ Welcome to the Python Hacks repository! This collection features various Python 
   - [Wi-Fi Password Extraction](https://github.com/avalokkumar/python-tricks/tree/main/wifi_pwd_extractor)
   - [Price Drop Notification](https://github.com/avalokkumar/python-tricks/tree/main/price_drop_notification)
   - [Auto Form Filling](https://github.com/avalokkumar/python-tricks/tree/main/auto_form_filling)
-  - [Log Analysis and Anomaly Detection](#log-analysis-and-anomaly-detection)
+  - [Network Packet Sniffer](#network-packet-sniffer)
+  - [Web Scraper with CAPTCHA Bypass](#web-scraper-with-captcha-bypass)
+  - [PDF Text Extraction and Analysis](#pdf-text-extraction-and-analysis)
+  - [API Performance Testing Tool](#api-performance-testing-tool)
+  - [Automated Vulnerability Scanner](#automated-vulnerability-scanner)
+  - [Custom Browser Automation](#custom-browser-automation)
+  - [Malware Analysis Sandbox](#malware-analysis-sandbox)
+  - [Custom SSH Client](#custom-ssh-client)
+   
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -38,10 +46,29 @@ This repository contains Python scripts for a variety of tasks. Whether you need
 **Script:**
 - `auto_form_filler.py` - Automatically fill out forms on websites to save time and reduce repetitive tasks.
 
-### Log Analysis and Anomaly Detection
+### Network Packet Sniffer
+- `packet_sniffer.py` - Capture and analyze network packets for security testing or monitoring network traffic.
 
-**Script:**
-- `log_analyzer.py` - Analyze logs and detect anomalies using predefined patterns or machine learning techniques.
+### Web Scraper with CAPTCHA Bypass
+- `web_scraper.py` - A web scraper that handles dynamic content and bypasses CAPTCHAs using services like 2Captcha or ML models.
+
+### PDF Text Extraction and Analysis
+- `pdf_text_extractor.py` - Extract text from PDFs and perform NLP tasks like entity recognition or sentiment analysis.
+
+### API Performance Testing Tool
+- `api_performance_tester.py` - Benchmark APIs, measuring response times, throughput, and error rates.
+
+### Automated Vulnerability Scanner
+- `vulnerability_scanner.py` - Scan for common vulnerabilities (e.g., open ports, outdated software) in a given IP range.
+
+### Custom Browser Automation
+- `browser_automation.py` - Automate complex browser tasks, such as multi-step form submissions or data extraction from SPAs.
+
+### Malware Analysis Sandbox
+- `malware_analysis.py` - Set up a controlled environment using Python to analyze and reverse-engineer malicious software behavior.
+
+### Custom SSH Client
+- `ssh_client.py` - Perform automated tasks on remote servers, like executing commands or transferring files.
 
 ## Usage
 
@@ -53,3 +80,4 @@ To use these scripts:
    ```bash
    git clone git@github.com:avalokkumar/python-tricks.git
    cd python-hacks
+   ```
