@@ -10,7 +10,7 @@ Welcome to the Python Hacks repository! This collection features various Python 
   - [Price Drop Notification](https://github.com/avalokkumar/python-tricks/tree/main/price_drop_notification)
   - [Auto Form Filling](https://github.com/avalokkumar/python-tricks/tree/main/auto_form_filling)
   - [Network Packet Sniffer](#network-packet-sniffer)
-  - [Web Scraper with CAPTCHA Bypass](#web-scraper-with-captcha-bypass)
+  - [Web Scraper with CAPTCHA Bypass](https://github.com/avalokkumar/python-tricks/tree/main/web_scrapper_with_captcha_bypass)
   - [PDF Text Extraction and Analysis](#pdf-text-extraction-and-analysis)
   - [API Performance Testing Tool](#api-performance-testing-tool)
   - [Automated Vulnerability Scanner](#automated-vulnerability-scanner)
