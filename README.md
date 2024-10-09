@@ -11,7 +11,7 @@ Welcome to the Python Hacks repository! This collection features various Python 
   - [Auto Form Filling](https://github.com/avalokkumar/python-tricks/tree/main/auto_form_filling)
   - [Network Packet Sniffer](#network-packet-sniffer)
   - [Web Scraper with CAPTCHA Bypass](https://github.com/avalokkumar/python-tricks/tree/main/web_scrapper_with_captcha_bypass)
-  - [PDF Text Extraction and Analysis](#pdf-text-extraction-and-analysis)
+  - [PDF Text Extraction and Analysis](https://github.com/avalokkumar/python-tricks/tree/main/pdf_text_extraction_analysis)
   - [API Performance Testing Tool](#api-performance-testing-tool)
   - [Automated Vulnerability Scanner](#automated-vulnerability-scanner)
   - [Custom Browser Automation](#custom-browser-automation)
